@@ -4,7 +4,7 @@
 
 
 
-# Callender Auto 
+# Calendar Auto table genrated
         Date = 
         VAR BaseCalendar =
             CALENDAR ( DATE (2019, 1, 1), NOW() )
