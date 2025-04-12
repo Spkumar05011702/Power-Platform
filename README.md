@@ -21,4 +21,12 @@
                 )
             )
 
- 
+
+# Remove bank Columns and rows PQ Function
+   
+     (Source as table) =>
+        let
+            #"Removed Blank Rows" = Table.SelectRows(Source, each not List.IsEmpty(List.RemoveMatchingItems(List.Transform(List.RemoveMatchingItems(Record.FieldValues(_), {"", null}), each try Text.Clean(Text.Trim(_)) otherwise _ ) , {""}))),
+            #"Removed Blank Cols" = Table.SelectColumns(#"Removed Blank Rows" , List.Select(Table.ColumnNames(#"Removed Blank Rows"), each List.NonNullCount(List.Transform(Table.Column( #"Removed Blank Rows", _) , each try if Text.Clean(Text.Trim(_)) = "" then null else _ otherwise _ ) ) > 0 ))
+        in
+            #"Removed Blank Cols"
