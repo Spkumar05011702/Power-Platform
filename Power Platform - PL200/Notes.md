@@ -1,4 +1,6 @@
 # Power Platform Functional Consultant
+    https://gsi.learnondemand.net/
+    spkumar...2@g....com
     Office 365 Tenant
     Administrative Username	 admin@M365x05066879.onmicrosoft.com
     Administrative Password	 ~ym7Lt99M6tdQ0}1B(D$r(#)dq+1O9NR
