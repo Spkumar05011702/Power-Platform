@@ -1,4 +1,3 @@
-
 # Power Platform Functional Consultant
     Office 365 Tenant
     Administrative Username	 admin@M365x05066879.onmicrosoft.com
