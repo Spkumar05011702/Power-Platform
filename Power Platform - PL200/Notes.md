@@ -27,5 +27,6 @@
 
 
         Please make sure to redeem the below.
+        personal outlook spkumar....1702@gmail.com
         Achievement code: https://learn.microsoft.com/users/me/achievements?redeem=6ZP3GP&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428290&DCS=DEPR2520678
 
