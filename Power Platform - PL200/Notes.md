@@ -31,21 +31,24 @@
         Achievement code: https://learn.microsoft.com/users/me/achievements?redeem=6ZP3GP&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428290&DCS=DEPR2520678
 
 
+# Importtant Link
 
+        https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-edit-entity-relationships
+        https://learn.microsoft.com/en-us/training/modules/reduce-complexity-dataverse-table/
+        https://learn.microsoft.com/en-us/power-automate/?utm_source=flow-sidebar&utm_medium=web
+        https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-200/
+        
+        https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant/Instructions/Labs/LAB%5BPL-200%5D_M99OPT_Dashboards.html
+        
+        https://learn.microsoft.com/en-us/training/paths/power-apps-online-workshop/
+        
+        https://learn.microsoft.com/en-us/users/me/achievements?redeem=RJ62Y8&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289
+        
+        https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-200/
+        
+        https://forms.office.com/e/0j6KreN5GU- Voucher related
+        
+        https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 
-https://learn.microsoft.com/en-us/power-apps/maker/data-platform/create-edit-entity-relationships
-https://learn.microsoft.com/en-us/training/modules/reduce-complexity-dataverse-table/
-https://learn.microsoft.com/en-us/power-automate/?utm_source=flow-sidebar&utm_medium=web
-https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-200/
-
-https://microsoftlearning.github.io/PL-200-Power-Platform-Functional-Consultant/Instructions/Labs/LAB%5BPL-200%5D_M99OPT_Dashboards.html
-
-https://learn.microsoft.com/en-us/training/paths/power-apps-online-workshop/
-
-https://learn.microsoft.com/en-us/users/me/achievements?redeem=RJ62Y8&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289
-
-https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-200/
-
-https://forms.office.com/e/0j6KreN5GU- Voucher related
-
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+        https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications
+        
