@@ -12,3 +12,6 @@ Filter Query Expression to check if Try Scope action has Failed or TimedOut:
 
 Table Style 🖌️ (Included in template)
 [https://github.com/rdorrani/Microsoft...](https://github.com/rdorrani/Microsoft-Flow/blob/master/FlowTemplatewithErrorHandling_20221030232702.zip)
+
+# logicexpressions
+https://aka.ms/logicexpressions#join
