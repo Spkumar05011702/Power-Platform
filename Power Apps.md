@@ -1,8 +1,7 @@
 # Power Apps Formula 
 //Get Environment Base URL
 varEnvironmentBaseURL = LookUp('Environment Variable Values','Environment Variable Definition'.'Schema Name' = "pgimre_envCurrentEnvironmentURL").Value;
- 
- 
+
 //security roles related code
 varFundPerformanceBORole = LookUp('Environment Variable Values','Environment Variable Definition'.'Schema Name' = "pgimre_envFundPerformanceBusinessAppOwner").Value;
  
