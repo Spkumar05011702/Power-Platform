@@ -113,4 +113,25 @@
           )
 
 
+  # 2000 collect records
+          Clear(AllInscriptions);
+          ForAll(
+              Sequence(
+                  RoundUp(Max('V2-Inscription', Index_ID).Index_ID / 2000, 0)
+              ),
+              With(
+                  {
+                      _FirstID: (ThisRecord.Value - 1) * 2000,
+                      _LastID: ThisRecord.Value * 2000
+                  },
+                  Collect(
+                      AllInscriptions,
+                      Filter(
+                          'V2-Inscription',
+                          Index_ID > _FirstID && Index_ID <= _LastID
+                      )
+                  )
+              )
+          )
+
          
